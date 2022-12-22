@@ -52,4 +52,4 @@ document
     }
   });
 
-weather.fetchWeather("New York");
+weather.fetchWeather("Islamabad");
